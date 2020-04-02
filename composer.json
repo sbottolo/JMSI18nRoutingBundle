@@ -16,13 +16,13 @@
         }
     ],
     "require": {
-	"php": "^7.1",
-        "symfony/framework-bundle": "^3.4"
+	"php": "*",
+        "symfony/framework-bundle": "*"
     },
     "require-dev": {
         "sensio/framework-extra-bundle": "*",
-        "symfony/symfony": "^4.0",
-        "phpunit/phpunit": "^6.0"
+        "symfony/symfony": "*",
+        "phpunit/phpunit": "*"
     },
     "suggest": {
         "jms/translation-bundle": "If you want to use the RouteTranslation extractor"
